@@ -246,6 +246,18 @@ main{
 .line2{
 
   }
+  .img1:hover{
+    transform: scale(1.2);
+  }
+  .img2:hover{
+    transform: scale(1.2);
+  }
+  #img3:hover{
+    transform: scale(1.2);
+  }
+  .img4:hover{
+    transform: scale(1.2);
+  }
   @media only screen and (min-width: 768px) and (max-width: 1024px) {
     #btn1{
         display: none;
